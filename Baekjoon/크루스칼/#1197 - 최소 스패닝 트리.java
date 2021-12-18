@@ -3,7 +3,7 @@ import java.io.InputStreamReader;
 import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
-// 최소 스패닝 트리 (크루스칼)
+// 최소 스패닝 트리
 // https://www.acmicpc.net/problem/1197
 
 public class Main {
