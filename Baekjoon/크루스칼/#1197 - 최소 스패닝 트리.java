@@ -6,7 +6,7 @@ import java.util.StringTokenizer;
 // 최소 스패닝 트리
 // https://www.acmicpc.net/problem/1197
 
-public class Main {
+public class Main { 
 	static int V, E, res;
 	static int[] parent;
 	
