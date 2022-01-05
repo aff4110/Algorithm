@@ -4,7 +4,7 @@
 
 | 순번 |                   문제 번호                    |                 문제 이름                 |                                             난이도                                              | 풀이 여부 |
 | :--: | :--------------------------------------------: | :---------------------------------------: | :---------------------------------------------------------------------------------------------: | :-------: |
-|  0   |  [1158](https://www.acmicpc.net/problem/1158)  |     [요세푸스 문제](요세푸스_문제.md)     | <img height="20px" style="padding:5px 0 0 0" src="https://static.solved.ac/tier_small/6.svg"/>  |    ✅     |
+|  0   |  [1158](https://www.acmicpc.net/problem/1158)  |     [요세푸스 문제](요세푸스_문제.md)     | <img height="20px" style="padding:10px 0 0 0" src="https://static.solved.ac/tier_small/6.svg"/> |    ✅     |
 |  1   | [10828](https://www.acmicpc.net/problem/10828) |              [스택](스택.md)              | <img height="20px" style="padding:5px 0 0 0"  src="https://static.solved.ac/tier_small/7.svg"/> |    ⬜️    |
 |  2   |  [9012](https://www.acmicpc.net/problem/9012)  |              [괄호](괄호.md)              | <img height="20px" style="padding:5px 0 0 0" src="https://static.solved.ac/tier_small/7.svg"/>  |    ⬜️    |
 |  3   | [18258](https://www.acmicpc.net/problem/18258) |              [큐 2](큐_2.md)              | <img height="20px" style="padding:5px 0 0 0" src="https://static.solved.ac/tier_small/7.svg"/>  |    ⬜️    |
