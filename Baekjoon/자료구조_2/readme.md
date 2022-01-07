@@ -1,12 +1,12 @@
 **[Baekjoon 문제집으로 돌아가기](../readme.md)**
 
-# [Data Structre 2 (자료구조 2)](https://www.acmicpc.net/workbook/view/6779)
+# [Data Structre 2 (자료구조 2)](https://www.acmicpc.net/workbook/view/6780)
 
 이 자료구조에서는 Map, Set, Priority Queue(우선순위 큐)를 익히는 문제들로 뽑았습니다.
 
 | 순번 |                   문제 번호                    |                           문제 이름                           |                                난이도                                 | 추천 문제 | 풀이 여부 |
 | :--: | :--------------------------------------------: | :-----------------------------------------------------------: | :-------------------------------------------------------------------: | :-------: | :-------: |
-|  0   |  [1620](https://www.acmicpc.net/problem/1620)  | [나는야 포켓몬 마스터 이다솜](나는야_포켓몬_마스터_이다솜.md) | <img height="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |    ⭐     |    ✅    |
+|  0   |  [1620](https://www.acmicpc.net/problem/1620)  | [나는야 포켓몬 마스터 이다솜](나는야_포켓몬_마스터_이다솜.md) | <img height="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |    ⭐     |    ✅     |
 |  1   | [14425](https://www.acmicpc.net/problem/14425) |                 [문자열 집합](문자열_집합.md)                 | <img height="25px"  src="https://static.solved.ac/tier_small/8.svg"/> |    ⭐     |    ⬜️    |
 |  2   | [11279](https://www.acmicpc.net/problem/11279) |                     [최대 힙](최대_힙.md)                     | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |    ⭐     |    ⬜️    |
 |  3   | [11286](https://www.acmicpc.net/problem/11286) |                   [절대값 힙](절대값_힙.md)                   | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> |    ⭐     |    ⬜️    |
