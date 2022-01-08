@@ -7,7 +7,7 @@
 | 순번 |                   문제 번호                    |                     문제 이름                     |                                 난이도                                 | 추천 문제 | 풀이 여부 |
 | :--: | :--------------------------------------------: | :-----------------------------------------------: | :--------------------------------------------------------------------: | :-------: | :-------: |
 |  0   | [11725](https://www.acmicpc.net/problem/11725) |      [트리의 부모 찾기](트리의_부모_찾기.md)      |  <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |    ⭐     |    ✅     |
-|  1   |  [1991](https://www.acmicpc.net/problem/1991)  |             [트리 순회](트리_순회.md)             | <img height="25px"  src="https://static.solved.ac/tier_small/10.svg"/> |    ⭐     |    ⬜️    |
+|  1   |  [1991](https://www.acmicpc.net/problem/1991)  |             [트리 순회](트리_순회.md)             | <img height="25px"  src="https://static.solved.ac/tier_small/10.svg"/> |    ⭐     |    ✅     |
 |  2   |  [9934](https://www.acmicpc.net/problem/9934)  |        [완전 이진 트리](완전_이진_트리.md)        | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/>  |    ⭐     |    ⬜️    |
 |  3   |  [5639](https://www.acmicpc.net/problem/5639)  |        [이진 검색 트리](이진_검색_트리.md)        | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/>  |    ⭐     |    ⬜️    |
 |  4   |  [1068](https://www.acmicpc.net/problem/1068)  |                  [트리](트리.md)                  | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/>  |    ⭐     |    ⬜️    |
