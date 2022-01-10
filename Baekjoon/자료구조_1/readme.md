@@ -7,8 +7,8 @@
 | 순번 |                   문제 번호                    |                 문제 이름                 |                                난이도                                 | 추천 문제 | 풀이 여부 |
 | :--: | :--------------------------------------------: | :---------------------------------------: | :-------------------------------------------------------------------: | :-------: | :-------: |
 |  0   |  [1158](https://www.acmicpc.net/problem/1158)  |     [요세푸스 문제](요세푸스_문제.md)     | <img height="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |    ⭐     |    ✅     |
-|  1   | [10828](https://www.acmicpc.net/problem/10828) |              [스택](스택.md)              | <img height="25px"  src="https://static.solved.ac/tier_small/7.svg"/> |    ⭐     |    ⬜️    |
-|  2   |  [9012](https://www.acmicpc.net/problem/9012)  |              [괄호](괄호.md)              | <img height="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |    ⭐     |    ⬜️    |
+|  1   | [10828](https://www.acmicpc.net/problem/10828) |              [스택](스택.md)              | <img height="25px"  src="https://static.solved.ac/tier_small/7.svg"/> |    ⭐     |    ✅     |
+|  2   |  [9012](https://www.acmicpc.net/problem/9012)  |              [괄호](괄호.md)              | <img height="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |    ⭐     |    ✅     |
 |  3   | [18258](https://www.acmicpc.net/problem/18258) |              [큐 2](큐_2.md)              | <img height="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |    ⭐     |    ⬜️    |
 |  4   |  [2164](https://www.acmicpc.net/problem/2164)  |             [카드2](카드.md)              | <img height="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |    ⭐     |    ⬜️    |
 |  5   | [10866](https://www.acmicpc.net/problem/10866) |                [덱](덱.md)                | <img height="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |    ⭐     |    ⬜️    |
