@@ -11,7 +11,7 @@
 |  2   |  [9012](https://www.acmicpc.net/problem/9012)  |              [괄호](괄호.md)              | <img height="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |    ⭐     |    ✅     |
 |  3   | [18258](https://www.acmicpc.net/problem/18258) |              [큐 2](큐_2.md)              | <img height="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |    ⭐     |    ✅     |
 |  4   |  [2164](https://www.acmicpc.net/problem/2164)  |             [카드2](카드2.md)             | <img height="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |    ⭐     |    ✅     |
-|  5   | [10866](https://www.acmicpc.net/problem/10866) |                [덱](덱.md)                | <img height="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |    ⭐     |    ⬜️    |
+|  5   | [10866](https://www.acmicpc.net/problem/10866) |                [덱](덱.md)                | <img height="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |    ⭐     |    ✅     |
 |  6   |  [1874](https://www.acmicpc.net/problem/1874)  |         [스택 수열](스택_수열.md)         | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |    ⭐     |    ⬜️    |
 |  7   |  [1935](https://www.acmicpc.net/problem/1935)  |      [후위 표기식2](후위_표기식.md)       | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |    ⭐     |    ⬜️    |
 |  8   | [10799](https://www.acmicpc.net/problem/10799) |          [쇠막대기](쇠막대기.md)          | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |    ⭐     |    ⬜️    |
