@@ -17,9 +17,9 @@
 |  0   |  [2753](https://www.acmicpc.net/problem/2753)  |                          [윤년](윤년.md)                          | <img height="25px" src="https://static.solved.ac/tier_small/2.svg"/>  |    ⭐     |    ✅     |
 |  1   |  [1212](https://www.acmicpc.net/problem/1212)  |                   [8진수 2진수](8진수_2진수.md)                   | <img height="25px" src="https://static.solved.ac/tier_small/3.svg"/>  |    ⭐     |    ✅     |
 |  2   | [20053](https://www.acmicpc.net/problem/20053) |                  [최소, 최대 2](최소,_최대_2.md)                  | <img height="25px" src="https://static.solved.ac/tier_small/3.svg"/>  |    ⭐     |    ✅     |
-|  3   |  [5597](https://www.acmicpc.net/problem/5597)  |            [과제 안 내신 분..?](과제_안_내신_분..?.md)            | <img height="25px" src="https://static.solved.ac/tier_small/4.svg"/>  |    ⭐     |    ⬜️    |
-|  4   | [21918](https://www.acmicpc.net/problem/21918) |                          [전구](전구.md)                          | <img height="25px" src="https://static.solved.ac/tier_small/4.svg"/>  |    ⭐     |    ⬜️    |
-|  5   | [20546](https://www.acmicpc.net/problem/20546) |              [🐜 기적의 매매법 🐜](기적의_매매법.md)              | <img height="25px" src="https://static.solved.ac/tier_small/5.svg"/>  |    ⭐     |    ⬜️    |
+|  3   |  [5597](https://www.acmicpc.net/problem/5597)  |             [과제 안 내신 분..?](과제_안_내신_분.md)              | <img height="25px" src="https://static.solved.ac/tier_small/4.svg"/>  |    ⭐     |    ✅     |
+|  4   | [21918](https://www.acmicpc.net/problem/21918) |                          [전구](전구.md)                          | <img height="25px" src="https://static.solved.ac/tier_small/4.svg"/>  |    ⭐     |    ✅     |
+|  5   | [20546](https://www.acmicpc.net/problem/20546) |              [🐜 기적의 매매법 🐜](기적의_매매법.md)              | <img height="25px" src="https://static.solved.ac/tier_small/5.svg"/>  |    ⭐     |    ✅     |
 |  6   | [14467](https://www.acmicpc.net/problem/14467) |       [소가 길을 건너간 이유 1](소가_길을_건너간_이유_1.md)       | <img height="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |    ⭐     |    ⬜️    |
 |  7   |  [2578](https://www.acmicpc.net/problem/2578)  |                          [빙고](빙고.md)                          | <img height="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |    ⭐     |    ⬜️    |
 |  8   |  [4396](https://www.acmicpc.net/problem/4396)  |                     [지뢰 찾기](지뢰_찾기.md)                     | <img height="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |    ⭐     |    ⬜️    |
