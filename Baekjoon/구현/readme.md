@@ -23,7 +23,7 @@
 |  6   | [14467](https://www.acmicpc.net/problem/14467) |       [소가 길을 건너간 이유 1](소가_길을_건너간_이유_1.md)       | <img height="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |    ⭐     |    ✅     |
 |  7   |  [2578](https://www.acmicpc.net/problem/2578)  |                          [빙고](빙고.md)                          | <img height="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |    ⭐     |    ✅     |
 |  8   |  [4396](https://www.acmicpc.net/problem/4396)  |                     [지뢰 찾기](지뢰_찾기.md)                     | <img height="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |    ⭐     |    ⬜️    |
-|  9   |  [1913](https://www.acmicpc.net/problem/1913)  |                        [달팽이](달팽이.md)                        | <img height="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |    ⭐     |    ⬜️    |
+|  9   |  [1913](https://www.acmicpc.net/problem/1913)  |                        [달팽이](달팽이.md)                        | <img height="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |    ⭐     |    ✅     |
 |  10  | [12933](https://www.acmicpc.net/problem/12933) |                          [오리](오리.md)                          | <img height="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |    ⭐     |    ⬜️    |
 |  11  |  [1244](https://www.acmicpc.net/problem/1244)  |              [스위치 켜고 끄기](스위치_켜고_끄기.md)              | <img height="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |    ⭐     |    ✅     |
 |  12  | [10994](https://www.acmicpc.net/problem/10994) |                  [별 찍기 - 19](별_찍기_-_19.md)                  | <img height="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |    ⭐     |    ⬜️    |
