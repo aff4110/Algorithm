@@ -16,7 +16,7 @@
 |  7   |  [1935](https://www.acmicpc.net/problem/1935)  |      [후위 표기식2](후위_표기식.md)       | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |    ⭐     |    ✅     |
 |  8   | [10799](https://www.acmicpc.net/problem/10799) |          [쇠막대기](쇠막대기.md)          | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |    ⭐     |    ⬜️    |
 |  9   |  [1966](https://www.acmicpc.net/problem/1966)  |         [프린터 큐](프린터_큐.md)         | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |    ⭐     |    ✅     |
-|  10  |  [2346](https://www.acmicpc.net/problem/2346)  |     [풍선 터뜨리기](풍선_터뜨리기.md)     | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |    ⭐     |    ⬜️    |
+|  10  |  [2346](https://www.acmicpc.net/problem/2346)  |     [풍선 터뜨리기](풍선_터뜨리기.md)     | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |    ⭐     |    ✅     |
 |  11  |  [2504](https://www.acmicpc.net/problem/2504)  |         [괄호의 값](괄호의_값.md)         | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |    ⭐     |    ⬜️    |
 |  12  |  [2800](https://www.acmicpc.net/problem/2800)  |         [괄호 제거](괄호_제거.md)         | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ⬜️    |
 |  13  |  [2493](https://www.acmicpc.net/problem/2493)  |                [탑](탑.md)                | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ⬜️    |
