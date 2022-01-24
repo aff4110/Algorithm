@@ -27,7 +27,7 @@
 |  11  |  [1244](https://www.acmicpc.net/problem/1244)  |              [스위치 켜고 끄기](스위치_켜고_끄기.md)              | <img height="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |    ⭐     |    ✅     |
 |  12  | [10994](https://www.acmicpc.net/problem/10994) |                   [별 찍기 - 19](별_찍기_19.md)                   | <img height="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |    ⭐     |    ✅     |
 |  13  | [20436](https://www.acmicpc.net/problem/20436) |                        [ZOAC 3](ZOAC_3.md)                        | <img height="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |    ⭐     |    ✅     |
-|  14  | [20291](https://www.acmicpc.net/problem/20291) |                     [파일 정리](파일_정리.md)                     | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |    ⭐     |    ⬜️    |
+|  14  | [20291](https://www.acmicpc.net/problem/20291) |                     [파일 정리](파일_정리.md)                     | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |    ⭐     |    ✅     |
 |  15  | [17413](https://www.acmicpc.net/problem/17413) |                 [단어 뒤집기 2](단어_뒤집기_2.md)                 | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |    ⭐     |    ⬜️    |
 |  16  | [22858](https://www.acmicpc.net/problem/22858) |            [원상 복구 (small)](<원상_복구_(small).md>)            | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |    ⭐     |    ⬜️    |
 |  17  | [16926](https://www.acmicpc.net/problem/16926) |                 [배열 돌리기 1](배열_돌리기_1.md)                 | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |    ⭐     |    ⬜️    |
