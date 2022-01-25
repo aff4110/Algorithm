@@ -29,7 +29,7 @@
 |  13  | [20436](https://www.acmicpc.net/problem/20436) |                        [ZOAC 3](ZOAC_3.md)                        | <img height="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |    ⭐     |    ✅     |
 |  14  | [20291](https://www.acmicpc.net/problem/20291) |                     [파일 정리](파일_정리.md)                     | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |    ⭐     |    ✅     |
 |  15  | [17413](https://www.acmicpc.net/problem/17413) |                 [단어 뒤집기 2](단어_뒤집기_2.md)                 | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |    ⭐     |    ✅     |
-|  16  | [22858](https://www.acmicpc.net/problem/22858) |            [원상 복구 (small)](<원상_복구_(small).md>)            | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |    ⭐     |    ⬜️    |
+|  16  | [22858](https://www.acmicpc.net/problem/22858) |            [원상 복구 (small)](<원상_복구_(small).md>)            | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |    ⭐     |    ✅     |
 |  17  | [16926](https://www.acmicpc.net/problem/16926) |                 [배열 돌리기 1](배열_돌리기_1.md)                 | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |    ⭐     |    ⬜️    |
 |  18  | [15787](https://www.acmicpc.net/problem/15787) | [기차가 어둠을 헤치고 은하수를](기차가_어둠을_헤치고_은하수를.md) | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |    ⭐     |    ⬜️    |
 |  19  | [17276](https://www.acmicpc.net/problem/17276) |                   [배열 돌리기](배열_돌리기.md)                   | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> |    ⭐     |    ⬜️    |
