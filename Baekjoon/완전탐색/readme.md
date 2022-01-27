@@ -10,7 +10,7 @@
 
 | 순번 |                   문제 번호                    |                                              문제 이름                                              |                                난이도                                 | 추천 문제 | 풀이 여부 |
 | :--: | :--------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :-------: | :-------: |
-|  0   | [22864](https://www.acmicpc.net/problem/22864) |                                         [피로도](피로도.md)                                         | <img height="25px" src="https://static.solved.ac/tier_small/3.svg"/>  |    ⭐     |    ⬜️    |
+|  0   | [22864](https://www.acmicpc.net/problem/22864) |                                         [피로도](피로도.md)                                         | <img height="25px" src="https://static.solved.ac/tier_small/3.svg"/>  |    ⭐     |    ✅     |
 |  1   |  [2798](https://www.acmicpc.net/problem/2798)  |                                         [블랙잭](블랙잭.md)                                         | <img height="25px" src="https://static.solved.ac/tier_small/4.svg"/>  |    ⭐     |    ✅     |
 |  2   |  [2231](https://www.acmicpc.net/problem/2231)  |                                         [분해합](분해합.md)                                         | <img height="25px" src="https://static.solved.ac/tier_small/4.svg"/>  |    ⭐     |    ⬜️    |
 |  3   | [19532](https://www.acmicpc.net/problem/19532) |                        [수학은 비대면강의입니다](수학은_비대면강의입니다.md)                        | <img height="25px" src="https://static.solved.ac/tier_small/4.svg"/>  |    ⭐     |    ⬜️    |
