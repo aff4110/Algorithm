@@ -13,7 +13,7 @@
 |  8   |        Implementation        |           [구현](./구현/readme.md)           |    29     |   49    |
 |  9   |       Graph Traversal        |      [# 그래프 탐색](./graph_traversal)      |    31     |   96    |
 |  10  |         Brute Force          |        [완전탐색](완전탐색/readme.md)        |    33     |   94    |
-|  11  |          Simulation          |         [# 시뮬레이션](./simulation)         |    30     |   48    |
+|  11  |          Simulation          |     [시뮬레이션](./시뮬레이션/readme.md)     |    29     |   47    |
 |  12  |        Binary Search         |        [# 이분탐색](./binary_search)         |    20     |   66    |
 |  13  |         Backtracking         |         [# 백트래킹](./backtracking)         |    28     |   75    |
 |  14  |      Divide and conquer      |      [# 분할정복](./divide_and_conquer)      |     8     |   18    |
