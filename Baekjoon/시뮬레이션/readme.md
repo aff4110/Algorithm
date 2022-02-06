@@ -1,6 +1,6 @@
 **[Baekjoon 문제집으로 돌아가기](../readme.md)**
 
-# [Simulation (시뮬레이션)](https://www.acmicpc.net/workbook/view/7271)
+# [Simulation (시뮬레이션)](https://www.acmicpc.net/workbook/view/6832)
 
 ❗ [ZOAC 3](https://www.acmicpc.net/problem/20436)는 [다른 문제집과 중복](../구현/ZOAC_3.md)되어 삭제
 
