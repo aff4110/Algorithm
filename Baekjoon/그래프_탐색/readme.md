@@ -25,7 +25,7 @@ BFS, DFS 유형을 다양하게 골랐습니다.
 |  10  | [16234](https://www.acmicpc.net/problem/16234) |          [인구 이동](인구_이동.md)          | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ⬜️    |
 |  11  |  [2636](https://www.acmicpc.net/problem/2636)  |               [치즈](치즈.md)               | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ⬜️    |
 |  12  | [13549](https://www.acmicpc.net/problem/13549) |         [숨바꼭질 3](숨바꼭질_3.md)         | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ⬜️    |
-|  13  | [17836](https://www.acmicpc.net/problem/17836) |   [공주님을 구해라!](공주님을_구해라!.md)   | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ⬜️    |
+|  13  | [17836](https://www.acmicpc.net/problem/17836) |   [공주님을 구해라!](공주님을_구해라!.md)   | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ✅     |
 |  14  | [14940](https://www.acmicpc.net/problem/14940) |      [쉬운 최단거리](쉬운_최단거리.md)      | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ⬜️    |
 |  15  | [18513](https://www.acmicpc.net/problem/18513) |               [샘터](샘터.md)               | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ⬜️    |
 |  16  |  [2668](https://www.acmicpc.net/problem/2668)  |         [숫자고르기](숫자고르기.md)         | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ⬜️    |
