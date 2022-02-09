@@ -12,7 +12,7 @@ BFS, DFS 유형을 다양하게 골랐습니다.
 
 | 순번 |                   문제 번호                    |                  문제 이름                  |                                난이도                                 | 추천 문제 | 풀이 여부 |
 | :--: | :--------------------------------------------: | :-----------------------------------------: | :-------------------------------------------------------------------: | :-------: | :-------: |
-|  0   |  [2606](https://www.acmicpc.net/problem/2606)  |           [바이러스](바이러스.md)           | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |    ⭐     |    ⬜️    |
+|  0   |  [2606](https://www.acmicpc.net/problem/2606)  |           [바이러스](바이러스.md)           | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |    ⭐     |    ✅     |
 |  1   |  [1260](https://www.acmicpc.net/problem/1260)  |          [DFS와 BFS](DFS와_BFS.md)          | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |    ⭐     |    ⬜️    |
 |  2   |  [1325](https://www.acmicpc.net/problem/1325)  |      [효율적인 해킹](효율적인_해킹.md)      | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> |    ⭐     |    ✅     |
 |  3   |  [2178](https://www.acmicpc.net/problem/2178)  |          [미로 탐색](미로_탐색.md)          | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> |    ⭐     |    ⬜️    |
