@@ -15,7 +15,7 @@ BFS, DFS 유형을 다양하게 골랐습니다.
 |  0   |  [2606](https://www.acmicpc.net/problem/2606)  |           [바이러스](바이러스.md)           | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |    ⭐     |    ✅     |
 |  1   |  [1260](https://www.acmicpc.net/problem/1260)  |          [DFS와 BFS](DFS와_BFS.md)          | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |    ⭐     |    ⬜️    |
 |  2   |  [1325](https://www.acmicpc.net/problem/1325)  |      [효율적인 해킹](효율적인_해킹.md)      | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> |    ⭐     |    ✅     |
-|  3   |  [2178](https://www.acmicpc.net/problem/2178)  |          [미로 탐색](미로_탐색.md)          | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> |    ⭐     |    ⬜️    |
+|  3   |  [2178](https://www.acmicpc.net/problem/2178)  |          [미로 탐색](미로_탐색.md)          | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> |    ⭐     |    ✅     |
 |  4   |  [2667](https://www.acmicpc.net/problem/2667)  |     [단지번호붙이기](단지번호붙이기.md)     | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> |    ⭐     |    ⬜️    |
 |  5   | [16918](https://www.acmicpc.net/problem/16918) |             [봄버맨](봄버맨.md)             | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> |    ⭐     |    ⬜️    |
 |  6   |  [5547](https://www.acmicpc.net/problem/5547)  |       [일루미네이션](일루미네이션.md)       | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> |    ⭐     |    ⬜️    |
