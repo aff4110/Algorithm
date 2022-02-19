@@ -27,14 +27,18 @@ public class Main {
 
     private static void bfs() {
         Queue<Integer> q = new LinkedList<>();
-        q.add(V); bfsChk[V] = true;
+        q.add(V);
+        bfsChk[V] = true;
 
         while(!q.isEmpty()) {
             int now = q.poll();
             System.out.print(now + " ");
 
             for(int next : adjList[now]) {
-                if(!bfsChk[next]) { q.add(next); bfsChk[next] = true; }
+                if(!bfsChk[next]) {
+                    q.add(next);
+                    bfsChk[next] = true;
+                }
             }
         }
     }
