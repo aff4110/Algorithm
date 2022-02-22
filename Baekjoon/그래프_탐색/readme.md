@@ -22,7 +22,7 @@ BFS, DFS 유형을 다양하게 골랐습니다.
 |  7   |  [7576](https://www.acmicpc.net/problem/7576)  |            [토마토](토마토1.md)             | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ✅     |
 |  8   |  [7569](https://www.acmicpc.net/problem/7569)  |            [토마토](토마토2.md)             | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ✅     |
 |  9   | [14502](https://www.acmicpc.net/problem/14502) |             [연구소](연구소.md)             | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ⬜️    |
-|  10  | [16234](https://www.acmicpc.net/problem/16234) |          [인구 이동](인구_이동.md)          | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ⬜️    |
+|  10  | [16234](https://www.acmicpc.net/problem/16234) |          [인구 이동](인구_이동.md)          | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ✅     |
 |  11  |  [2636](https://www.acmicpc.net/problem/2636)  |               [치즈](치즈.md)               | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ⬜️    |
 |  12  | [13549](https://www.acmicpc.net/problem/13549) |         [숨바꼭질 3](숨바꼭질_3.md)         | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ⬜️    |
 |  13  | [17836](https://www.acmicpc.net/problem/17836) |   [공주님을 구해라!](공주님을_구해라!.md)   | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ✅     |
