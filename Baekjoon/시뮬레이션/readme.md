@@ -9,7 +9,7 @@
 |  0   |  [5212](https://www.acmicpc.net/problem/5212)  |              [지구 온난화](지구_온난화.md)              | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |    ⭐     |    ✅     |
 |  1   |  [1713](https://www.acmicpc.net/problem/1713)  |            [후보 추천하기](후보_추천하기.md)            | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |    ⭐     |    ✅     |
 |  2   | [14891](https://www.acmicpc.net/problem/14891) |                 [톱니바퀴](톱니바퀴.md)                 | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> |    ⭐     |    ⬜️    |
-|  3   | [16234](https://www.acmicpc.net/problem/16234) |                [인구 이동](인구_이동.md)                | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ⬜️    |
+|  3   | [16234](https://www.acmicpc.net/problem/16234) |                [인구 이동](인구_이동.md)                | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ✅     |
 |  4   | [21610](https://www.acmicpc.net/problem/21610) |   [마법사 상어와 비바라기](마법사_상어와_비바라기.md)   | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ⬜️    |
 |  5   | [20055](https://www.acmicpc.net/problem/20055) |  [컨베이어 벨트 위의 로봇](컨베이어_벨트_위의_로봇.md)  | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ⬜️    |
 |  6   | [15683](https://www.acmicpc.net/problem/15683) |                     [감시](감시.md)                     | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ⬜️    |

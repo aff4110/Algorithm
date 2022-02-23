@@ -11,7 +11,7 @@
 |  6   |    Dynamic Programming 2     |  [# 동적계획법 2](./dynamic_programming_2)   |    28     |   81    |
 |  7   |         Two Pointer          |         [# 투 포인터](./two_pointer)         |    13     |   36    |
 |  8   |        Implementation        |           [구현](./구현/readme.md)           |    29     |   49    |
-|  9   |       Graph Traversal        |      [# 그래프 탐색](./graph_traversal)      |    30     |   95    |
+|  9   |       Graph Traversal        |      [# 그래프 탐색](./graph_traversal)      |    29     |   94    |
 |  10  |         Brute Force          |        [완전탐색](완전탐색/readme.md)        |    33     |   94    |
 |  11  |          Simulation          |     [시뮬레이션](./시뮬레이션/readme.md)     |    29     |   47    |
 |  12  |        Binary Search         |        [# 이분탐색](./binary_search)         |    20     |   66    |

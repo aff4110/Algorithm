@@ -9,6 +9,7 @@ BFS, DFS 유형을 다양하게 골랐습니다.
 문제를 보고 어떤 알고리즘을 써야할지 잘 판단하셔야 합니다.
 
 ❗ [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)는 [다른 문제집과 중복](../트리/트리의_부모_찾기.md)되어 삭제
+❗ [인구 이동](https://www.acmicpc.net/problem/16234)는 [다른 문제집과 중복](../시뮬레이션/인구_이동.md)되어 삭제
 
 | 순번 |                   문제 번호                    |                  문제 이름                  |                                난이도                                 | 추천 문제 | 풀이 여부 |
 | :--: | :--------------------------------------------: | :-----------------------------------------: | :-------------------------------------------------------------------: | :-------: | :-------: |
@@ -22,25 +23,24 @@ BFS, DFS 유형을 다양하게 골랐습니다.
 |  7   |  [7576](https://www.acmicpc.net/problem/7576)  |            [토마토](토마토1.md)             | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ✅     |
 |  8   |  [7569](https://www.acmicpc.net/problem/7569)  |            [토마토](토마토2.md)             | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ✅     |
 |  9   | [14502](https://www.acmicpc.net/problem/14502) |             [연구소](연구소.md)             | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ⬜️    |
-|  10  | [16234](https://www.acmicpc.net/problem/16234) |          [인구 이동](인구_이동.md)          | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ✅     |
-|  11  |  [2636](https://www.acmicpc.net/problem/2636)  |               [치즈](치즈.md)               | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ⬜️    |
-|  12  | [13549](https://www.acmicpc.net/problem/13549) |         [숨바꼭질 3](숨바꼭질_3.md)         | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ⬜️    |
-|  13  | [17836](https://www.acmicpc.net/problem/17836) |   [공주님을 구해라!](공주님을_구해라!.md)   | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ✅     |
-|  14  | [14940](https://www.acmicpc.net/problem/14940) |      [쉬운 최단거리](쉬운_최단거리.md)      | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ✅     |
-|  15  | [18513](https://www.acmicpc.net/problem/18513) |               [샘터](샘터.md)               | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ⬜️    |
-|  16  |  [2668](https://www.acmicpc.net/problem/2668)  |         [숫자고르기](숫자고르기.md)         | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ⬜️    |
-|  17  | [13023](https://www.acmicpc.net/problem/13023) |              [ABCDE](ABCDE.md)              | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ⬜️    |
-|  18  |  [1600](https://www.acmicpc.net/problem/1600)  | [말이 되고픈 원숭이](말이_되고픈_원숭이.md) | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> |    ⭐     |    ⬜️    |
-|  19  | [16954](https://www.acmicpc.net/problem/16954) | [움직이는 미로 탈출](움직이는_미로_탈출.md) | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> |    ⭐     |    ⬜️    |
-|  20  | [16973](https://www.acmicpc.net/problem/16973) |      [직사각형 탈출](직사각형_탈출.md)      | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> |    ⭐     |    ⬜️    |
-|  21  |  [2206](https://www.acmicpc.net/problem/2206)  | [벽 부수고 이동하기](벽_부수고_이동하기.md) | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> |    ⭐     |    ⬜️    |
-|  22  |  [2573](https://www.acmicpc.net/problem/2573)  |               [빙산](빙산.md)               | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> |    ⭐     |    ⬜️    |
-|  23  |  [4179](https://www.acmicpc.net/problem/4179)  |                [불!](불!.md)                | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> |    ⭐     |    ⬜️    |
-|  24  | [16932](https://www.acmicpc.net/problem/16932) |        [모양 만들기](모양_만들기.md)        | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> |    ⭐     |    ⬜️    |
-|  25  |  [1967](https://www.acmicpc.net/problem/1967)  |        [트리의 지름](트리의_지름.md)        | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> |    ⭐     |    ⬜️    |
-|  26  |  [9466](https://www.acmicpc.net/problem/9466)  |        [텀 프로젝트](텀_프로젝트.md)        | <img height="25px" src="https://static.solved.ac/tier_small/13.svg"/> |    ⭐     |    ⬜️    |
-|  27  | [22868](https://www.acmicpc.net/problem/22868) |        [산책 (small)](산책_small.md)        | <img height="25px" src="https://static.solved.ac/tier_small/13.svg"/> |    ⭐     |    ⬜️    |
-|  28  | [22946](https://www.acmicpc.net/problem/22946) |      [원 이동하기 1](원_이동하기_1.md)      | <img height="25px" src="https://static.solved.ac/tier_small/14.svg"/> |    ⭐     |    ⬜️    |
-|  29  | [22948](https://www.acmicpc.net/problem/22948) |      [원 이동하기 2](원_이동하기_2.md)      | <img height="25px" src="https://static.solved.ac/tier_small/14.svg"/> |    ⭐     |    ⬜️    |
+|  10  |  [2636](https://www.acmicpc.net/problem/2636)  |               [치즈](치즈.md)               | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ⬜️    |
+|  11  | [13549](https://www.acmicpc.net/problem/13549) |         [숨바꼭질 3](숨바꼭질_3.md)         | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ⬜️    |
+|  12  | [17836](https://www.acmicpc.net/problem/17836) |   [공주님을 구해라!](공주님을_구해라!.md)   | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ✅     |
+|  13  | [14940](https://www.acmicpc.net/problem/14940) |      [쉬운 최단거리](쉬운_최단거리.md)      | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ✅     |
+|  14  | [18513](https://www.acmicpc.net/problem/18513) |               [샘터](샘터.md)               | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ⬜️    |
+|  15  |  [2668](https://www.acmicpc.net/problem/2668)  |         [숫자고르기](숫자고르기.md)         | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ⬜️    |
+|  16  | [13023](https://www.acmicpc.net/problem/13023) |              [ABCDE](ABCDE.md)              | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ⬜️    |
+|  17  |  [1600](https://www.acmicpc.net/problem/1600)  | [말이 되고픈 원숭이](말이_되고픈_원숭이.md) | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> |    ⭐     |    ⬜️    |
+|  18  | [16954](https://www.acmicpc.net/problem/16954) | [움직이는 미로 탈출](움직이는_미로_탈출.md) | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> |    ⭐     |    ⬜️    |
+|  19  | [16973](https://www.acmicpc.net/problem/16973) |      [직사각형 탈출](직사각형_탈출.md)      | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> |    ⭐     |    ⬜️    |
+|  20  |  [2206](https://www.acmicpc.net/problem/2206)  | [벽 부수고 이동하기](벽_부수고_이동하기.md) | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> |    ⭐     |    ⬜️    |
+|  21  |  [2573](https://www.acmicpc.net/problem/2573)  |               [빙산](빙산.md)               | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> |    ⭐     |    ⬜️    |
+|  22  |  [4179](https://www.acmicpc.net/problem/4179)  |                [불!](불!.md)                | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> |    ⭐     |    ⬜️    |
+|  23  | [16932](https://www.acmicpc.net/problem/16932) |        [모양 만들기](모양_만들기.md)        | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> |    ⭐     |    ⬜️    |
+|  24  |  [1967](https://www.acmicpc.net/problem/1967)  |        [트리의 지름](트리의_지름.md)        | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> |    ⭐     |    ⬜️    |
+|  25  |  [9466](https://www.acmicpc.net/problem/9466)  |        [텀 프로젝트](텀_프로젝트.md)        | <img height="25px" src="https://static.solved.ac/tier_small/13.svg"/> |    ⭐     |    ⬜️    |
+|  26  | [22868](https://www.acmicpc.net/problem/22868) |        [산책 (small)](산책_small.md)        | <img height="25px" src="https://static.solved.ac/tier_small/13.svg"/> |    ⭐     |    ⬜️    |
+|  27  | [22946](https://www.acmicpc.net/problem/22946) |      [원 이동하기 1](원_이동하기_1.md)      | <img height="25px" src="https://static.solved.ac/tier_small/14.svg"/> |    ⭐     |    ⬜️    |
+|  28  | [22948](https://www.acmicpc.net/problem/22948) |      [원 이동하기 2](원_이동하기_2.md)      | <img height="25px" src="https://static.solved.ac/tier_small/14.svg"/> |    ⭐     |    ⬜️    |
 
 | 3 | [asdf](https://www.acmicpc.net/problem/asdf) | [asdf](asdf.md) | <img height="25px" src="https://static.solved.ac/tier_small/asdf.svg"/> | | ⬜️ |
