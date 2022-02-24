@@ -8,16 +8,16 @@
 
 | 순번 |                   문제 번호                    |                   문제 이름                   |                                난이도                                 | 추천 문제 | 풀이 여부 |
 | :--: | :--------------------------------------------: | :-------------------------------------------: | :-------------------------------------------------------------------: | :-------: | :-------: |
-|  0   | [15649](https://www.acmicpc.net/problem/15649) |            [N과 M (1)](N과_M_1.md)            | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |    ⭐     |    ⬜️    |
-|  1   | [15650](https://www.acmicpc.net/problem/15650) |            [N과 M (2)](N과_M_2.md)            | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |    ⭐     |    ⬜️    |
-|  2   | [15651](https://www.acmicpc.net/problem/15651) |            [N과 M (3)](N과_M_3.md)            | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |    ⭐     |    ⬜️    |
-|  3   | [15652](https://www.acmicpc.net/problem/15652) |            [N과 M (4)](N과_M_4.md)            | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |    ⭐     |    ⬜️    |
+|  0   | [15649](https://www.acmicpc.net/problem/15649) |            [N과 M (1)](N과_M_1.md)            | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |    ⭐     |    ✅     |
+|  1   | [15650](https://www.acmicpc.net/problem/15650) |            [N과 M (2)](N과_M_2.md)            | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |    ⭐     |    ✅     |
+|  2   | [15651](https://www.acmicpc.net/problem/15651) |            [N과 M (3)](N과_M_3.md)            | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |    ⭐     |    ✅     |
+|  3   | [15652](https://www.acmicpc.net/problem/15652) |            [N과 M (4)](N과_M_4.md)            | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |    ⭐     |    ✅     |
 |  4   | [15654](https://www.acmicpc.net/problem/15654) |            [N과 M (5)](N과_M_5.md)            | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |    ⭐     |    ✅     |
 |  5   | [15655](https://www.acmicpc.net/problem/15655) |            [N과 M (6)](N과_M_6.md)            | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |    ⭐     |    ✅     |
 |  6   | [15656](https://www.acmicpc.net/problem/15656) |            [N과 M (7)](N과_M_7.md)            | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |    ⭐     |    ✅     |
 |  7   | [15657](https://www.acmicpc.net/problem/15657) |            [N과 M (8)](N과_M_8.md)            | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |    ⭐     |    ✅     |
-|  8   | [15663](https://www.acmicpc.net/problem/15663) |            [N과 M (9)](N과_M_9.md)            | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |    ⭐     |    ⬜️    |
-|  9   | [15664](https://www.acmicpc.net/problem/15664) |           [N과 M (10)](N과_M_10.md)           | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |    ⭐     |    ⬜️    |
+|  8   | [15663](https://www.acmicpc.net/problem/15663) |            [N과 M (9)](N과_M_9.md)            | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |    ⭐     |    ✅     |
+|  9   | [15664](https://www.acmicpc.net/problem/15664) |           [N과 M (10)](N과_M_10.md)           | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |    ⭐     |    ✅     |
 |  10  | [15665](https://www.acmicpc.net/problem/15665) |           [N과 M (11)](N과_M_11.md)           | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |    ⭐     |    ⬜️    |
 |  11  | [15666](https://www.acmicpc.net/problem/15666) |           [N과 M (12)](N과_M_12.md)           | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |    ⭐     |    ⬜️    |
 |  12  |  [1182](https://www.acmicpc.net/problem/1182)  |       [부분수열의 합](부분수열의_합.md)       | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |    ⭐     |    ⬜️    |
