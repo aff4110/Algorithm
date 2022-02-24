@@ -18,8 +18,8 @@
 |  7   | [15657](https://www.acmicpc.net/problem/15657) |            [N과 M (8)](N과_M_8.md)            | <img height="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |    ⭐     |    ✅     |
 |  8   | [15663](https://www.acmicpc.net/problem/15663) |            [N과 M (9)](N과_M_9.md)            | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |    ⭐     |    ✅     |
 |  9   | [15664](https://www.acmicpc.net/problem/15664) |           [N과 M (10)](N과_M_10.md)           | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |    ⭐     |    ✅     |
-|  10  | [15665](https://www.acmicpc.net/problem/15665) |           [N과 M (11)](N과_M_11.md)           | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |    ⭐     |    ⬜️    |
-|  11  | [15666](https://www.acmicpc.net/problem/15666) |           [N과 M (12)](N과_M_12.md)           | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |    ⭐     |    ⬜️    |
+|  10  | [15665](https://www.acmicpc.net/problem/15665) |           [N과 M (11)](N과_M_11.md)           | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |    ⭐     |    ✅     |
+|  11  | [15666](https://www.acmicpc.net/problem/15666) |           [N과 M (12)](N과_M_12.md)           | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |    ⭐     |    ✅     |
 |  12  |  [1182](https://www.acmicpc.net/problem/1182)  |       [부분수열의 합](부분수열의_합.md)       | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |    ⭐     |    ⬜️    |
 |  13  | [10971](https://www.acmicpc.net/problem/10971) |       [외판원 순회 2](외판원_순회_2.md)       | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |    ⭐     |    ⬜️    |
 |  14  | [16987](https://www.acmicpc.net/problem/16987) |   [계란으로 계란치기](계란으로_계란치기.md)   | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> |    ⭐     |    ⬜️    |
