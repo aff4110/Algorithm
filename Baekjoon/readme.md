@@ -10,16 +10,16 @@
 |  5   |    Dynamic Programming 1     |  [# 동적계획법 1](./dynamic_programming_1)   |    27     |   80    |
 |  6   |    Dynamic Programming 2     |  [# 동적계획법 2](./dynamic_programming_2)   |    28     |   81    |
 |  7   |         Two Pointer          |         [# 투 포인터](./two_pointer)         |    13     |   36    |
-|  8   |        Implementation        |           [구현](./구현/readme.md)           |    29     |   49    |
-|  9   |       Graph Traversal        |      [# 그래프 탐색](./graph_traversal)      |    29     |   94    |
+|  8   |        Implementation        |            [구현](구현/readme.md)            |    29     |   49    |
+|  9   |       Graph Traversal        |     [그래프 탐색](그래프_탐색/readme.md)     |    29     |   94    |
 |  10  |         Brute Force          |        [완전탐색](완전탐색/readme.md)        |    33     |   94    |
-|  11  |          Simulation          |     [시뮬레이션](./시뮬레이션/readme.md)     |    29     |   47    |
+|  11  |          Simulation          |      [시뮬레이션](시뮬레이션/readme.md)      |    29     |   47    |
 |  12  |        Binary Search         |        [# 이분탐색](./binary_search)         |    20     |   66    |
-|  13  |         Backtracking         |         [# 백트래킹](./backtracking)         |    28     |   75    |
+|  13  |         Backtracking         |        [백트래킹](백트래킹/readme.md)        |    28     |   75    |
 |  14  |      Divide and conquer      |      [# 분할정복](./divide_and_conquer)      |     8     |   18    |
 |  15  |          Prefix Sum          |          [# 누적 합](./prefix_sum)           |    11     |   32    |
 |  16  |            String            |             [# 문자열](./string)             |    19     |   64    |
-|  17  |        Shortest Path         |        [# 최단거리](./shortest_path)         |    18     |   53    |
+|  17  |        Shortest Path         |        [최단거리](최단거리/readme.md)        |    18     |   53    |
 |  18  |     Topological Sorting      |     [# 위상정렬](./topological_sorting)      |     5     |   14    |
 |  19  |         Disjoint Set         |        [# 분리 집합](./disjoint_set)         |     6     |   20    |
 |  20  |  Minimum Spanning Tree(MST)  | [# 최소 신장 트리](./minimum_spanning_tree)  |     8     |   24    |
