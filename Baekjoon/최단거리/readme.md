@@ -13,8 +13,8 @@
 |  0   | [18352](https://www.acmicpc.net/problem/18352) |     [특정 거리의 도시 찾기](특정_거리의_도시_찾기.md)     | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |    ⭐     |    ✅     |
 |  1   | [11403](https://www.acmicpc.net/problem/11403) |                 [경로 찾기](경로_찾기.md)                 | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> |    ⭐     |    ⬜️    |
 |  2   | [11265](https://www.acmicpc.net/problem/11265) |          [끝나지 않는 파티](끝나지_않는_파티.md)          | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> |    ⭐     |    ⬜️    |
-|  3   |  [1753](https://www.acmicpc.net/problem/1753)  |                  [최단경로](최단경로.md)                  | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ⬜️    |
-|  4   | [13549](https://www.acmicpc.net/problem/13549) |                [숨바꼭질 3](숨바꼭질_3.md)                | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ⬜️    |
+|  3   |  [1753](https://www.acmicpc.net/problem/1753)  |                  [최단경로](최단경로.md)                  | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ✅     |
+|  4   | [13549](https://www.acmicpc.net/problem/13549) |                [숨바꼭질 3](숨바꼭질_3.md)                | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ✅     |
 |  5   |  [2224](https://www.acmicpc.net/problem/2224)  |                 [명제 증명](명제_증명.md)                 | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ⬜️    |
 |  6   | [14938](https://www.acmicpc.net/problem/14938) |              [서강그라운드](서강그라운드.md)              | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> |    ⭐     |    ⬜️    |
 |  7   |  [1719](https://www.acmicpc.net/problem/1719)  |                      [택배](택배.md)                      | <img height="25px" src="https://static.solved.ac/tier_small/12.svg"/> |    ⭐     |    ⬜️    |
