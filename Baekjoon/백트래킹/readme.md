@@ -22,7 +22,7 @@
 |  11  | [15666](https://www.acmicpc.net/problem/15666) |           [N과 M (12)](N과_M_12.md)           | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |    ⭐     |    ✅     |
 |  12  |  [1182](https://www.acmicpc.net/problem/1182)  |       [부분수열의 합](부분수열의_합.md)       | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |    ⭐     |    ✅     |
 |  13  | [10971](https://www.acmicpc.net/problem/10971) |       [외판원 순회 2](외판원_순회_2.md)       | <img height="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |    ⭐     |    ⬜️    |
-|  14  | [16987](https://www.acmicpc.net/problem/16987) |   [계란으로 계란치기](계란으로_계란치기.md)   | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> |    ⭐     |    ⬜️    |
+|  14  | [16987](https://www.acmicpc.net/problem/16987) |   [계란으로 계란치기](계란으로_계란치기.md)   | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> |    ⭐     |    ✅     |
 |  15  | [14712](https://www.acmicpc.net/problem/14712) |      [넴모넴모 (Easy)](넴모넴모_Easy.md)      | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> |    ⭐     |    ⬜️    |
 |  16  | [14888](https://www.acmicpc.net/problem/14888) |     [연산자 끼워넣기](연산자_끼워넣기.md)     | <img height="25px" src="https://static.solved.ac/tier_small/10.svg"/> |    ⭐     |    ⬜️    |
 |  17  |  [1174](https://www.acmicpc.net/problem/1174)  |         [줄어드는 수](줄어드는_수.md)         | <img height="25px" src="https://static.solved.ac/tier_small/11.svg"/> |    ⭐     |    ⬜️    |
